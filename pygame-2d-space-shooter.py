@@ -1,3 +1,5 @@
+# This is a 2D Two player versus space shooter from a top down perspective made with pygame
+
 ### Improvements to do
 
 # Add a score tracker
